@@ -1,1 +1,1 @@
-# Linux-Zapret-Kurma-Rehberi
+# Linux Zapret Kurma Rehberi
